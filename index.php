@@ -1,3 +1,3 @@
 <?php
-	echo "Testpage 2TP-29";
+	echo "Testpage 2dTP-29";
 ?>
